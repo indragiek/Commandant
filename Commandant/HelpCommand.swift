@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import LlamaKit
 
 /// A basic implementation of a `help` command, using information available in a
 /// `CommandRegistry`.

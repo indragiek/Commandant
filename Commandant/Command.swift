@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import LlamaKit
 
 /// Represents a subcommand that can be executed with its own set of arguments.
 public protocol CommandType {

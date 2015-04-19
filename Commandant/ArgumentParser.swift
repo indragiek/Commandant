@@ -7,7 +7,6 @@
 //
 
 import Foundation
-import LlamaKit
 
 /// Represents an argument passed on the command line.
 private enum RawArgument: Equatable {
